@@ -1,0 +1,9 @@
+2021;CSE102;Lecture1
+2022;CSE321;Lecture1
+2022;CSE321;Lecture2
+2023;CSE222;Lecture1;Problem1
+2023;CSE222;Lecture1;Problem2
+2023;CSE232;Lecture1
+2023;CSE232;Lecture2;Problem1
+2023;CSE232;Lecture2;Problem2
+2023;CSE232;Lecture3
